@@ -1,5 +1,5 @@
 Política de Privacidad
 
-Esta aplicación no almacena ni comparte ni almacena información personal sin el consentimiento del usuario. Los datos se utilizan únicamente para brindar una demostración del proyecto y no son compartidos con terceros.
+Esta aplicación no almacena ni comparte información personal sin el consentimiento del usuario. Los datos se utilizan únicamente para brindar una demostración del proyecto y no son compartidos con terceros.
 
 Contacto: contacto@miapp.com
