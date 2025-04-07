@@ -1,2 +1,0 @@
-# asistencialegalcr
-aisistencialegalcr
